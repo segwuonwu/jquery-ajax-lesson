@@ -1,0 +1,18 @@
+html,
+body {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    background-color: dodgerblue;
+}
+
+form {
+    border: 2px dotted white;
+}
+
+label,
+input,
+select {
+    display: block;
+    margin: 20px;
+}
